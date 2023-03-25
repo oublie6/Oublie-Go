@@ -9,3 +9,7 @@ func Oublie(name string) {
 		fmt.Println("你好，我在等我曾经的太阳")
 	}
 }
+
+func V2Test() {
+	fmt.Println("你用的是v2版本，对应v2分支")
+}

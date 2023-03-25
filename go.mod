@@ -1,4 +1,4 @@
-module github.com/oublie6/Oublie-Go
+module github.com/oublie6/Oublie-Go/v2
 
 go 1.18
 
