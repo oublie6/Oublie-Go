@@ -2,7 +2,7 @@ package Oublie_Go
 
 import "fmt"
 
-func oublie(name string) {
+func Oublie(name string) {
 	if name == "XYQ" || name == "ZYH" {
 		fmt.Println("太阳的光还耀眼吗")
 	} else {
